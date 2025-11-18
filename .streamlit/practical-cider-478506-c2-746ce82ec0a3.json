@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "practical-cider-478506-c2",
+  "private_key_id": "746ce82ec0a3a101c8f3c705e3bcf0b818f5e432",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDSR0q7nQrDitW2\npJaUExDONDPcrHg4mjOvZS9w6c5knW54m45tmEkoIXIGeOfdR5nqcQLWLka3dBcI\nUeJVvpUxYxWqiW2o3d5IlUE5PEip4jJpgCb9Z6Ua3ZbefDcYDlzk2aUVL1/DyjlP\n4uPMXQwKvOVm930NDWrf1DCZ1bNvEDD6fs4AQpY5+90L6BKRsaMMOIRY9JY+A8yU\n0PeXy1mzvQ8Za+qZW/7WfveJghjwuB4gx97tuOgwi1DesMHMDQ2koKG0ig5RkjEr\nepNTYEXuEKgot7d48XiB/5E/l81xfGTV/11VP02wwZ9K4NDdqQJg4WM4pcQBJiaY\ntSz4svibAgMBAAECggEAWC/X8rjY08s8970s/WrFiIUyHuEiBjL9bBiWfddAXMf9\nlY0/fUz5mV/1bytzqkSmE0FT/DkqJTQFmNKmhmlILo8sffnmyIRL/crCsNtMahrY\nI5DASVQXVR4LcMFNZcRYRw3UAv98PSNpR8yS1plLPJGd78HpavjuknJt84ZBG1k/\nGWHVBt84aLEAW6TkhfkpndOhw4P+Lseikfoo7+zh3c67ArhVsUdZwfG6YzOzJyGt\n6moBmY7txRn0ndvOGxeHazl1u3nV9JmRciTDIWwOMGnCWwZ75V7lyaBgJax0sLOH\nP2vV5DtSqwzp52LjzKEF5madiqpoOk08ZXRFvBG4SQKBgQD1Lv5AwR+Qpaw3qRvJ\n2eu+XS4sgfaqaekA6t7GunZO1VjPhM9063WP1gcs2ubg5+hRIY2uxuYdHXkbXb+n\nWo6/YZrH/dd1aJeKW6YCyq1dzHykhG26JiDhtylPhY88e4F5LlGEA+WfDRsdlywo\nJM+gBEVD1/aDIT6Tvj2/F7GyVwKBgQDbjhguwdJW/s43QisJGnNFZvcMSClM1BQT\nqB0aIL2TzJrzwktBQOCaQ26riT8SCyHsYobCf/4LkymEA7o73RDvF4bchvKqXFuy\nDoWnAeJBGuaAr78365jZ/55rnxKYHzsHyyfvpwxKqrIhk7HfVeWlZFOVlyxHTdqj\nmmgf0EzpXQKBgQCr9jqzFgBahigkncH0r5gtWtNAuiJT4ZZfY1u+TBcgMXhpi7+p\nRF+e80DzD9DwmxaQmJTzqWLJttsy+2ypJtWJmx5g+EN+gE4Q5zinKpmvePVOuebv\nsUBMrxcVRBpzFDh50qevjMAm7p0/AsEgorjQhU5DSBwIWm+2Va6e8TJbXwKBgBD0\nby+lLh4jvT8NMA+a6E3yvp9HL1FMi2RdNiofXyR7x3eNiIw4e1/OV0yN4737+Bmu\nHiQFCFRSgAE+3HHlB3q/QV3kWfcH/NjKQE3+Wj+W2TgU2lpyKjKjh9NdzGzM9J0M\ndkAOkWduuSTYqALMOljEX6QMsZGsFHdP5DyYtGfNAoGALp5HUGr4xBxMkaiBR7F0\nc5Y8+nPSqVvBTnLzaxw+/0R+VqfqbgFhzsEZwIl/Bb5jcQ0YU/jlfLOISQCS1j7R\nqpg+eHL1MNRDwzvRuj1/ZktyQSPLBsJNT8Sz/+cUhiXUhREb/uao8LwTI01lQi2+\nAUJ/+mnoz26Ljl0NknKz7mw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "travelandtourgoogletranslatora@practical-cider-478506-c2.iam.gserviceaccount.com",
+  "client_id": "106896769840536962587",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/travelandtourgoogletranslatora%40practical-cider-478506-c2.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
